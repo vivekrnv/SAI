@@ -29,7 +29,6 @@ const
 couldn
 cpp
 cpu
-CtlOS
 decap
 decapsulation
 Decrement
@@ -78,7 +77,6 @@ idriver
 ifdef
 INET
 ingressing
-INIT
 inout
 InPktsDelayed
 InPktsLate
